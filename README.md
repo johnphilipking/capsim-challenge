@@ -7,7 +7,7 @@ Node/React Demo for Capsim Job Interview Challenge
 2. Open terminal, navigate to project folder
 3. To install required Node packages: `npm install`
 4. To run tests: `npm run test`
-5. To start application: `npm start`
+5. To start application: `npm run start`
 6. Application should start up and be available at http://localhost:3000/ assuming that port isn't already in use
 7. To compile/minify for production: `npm run build`
 
